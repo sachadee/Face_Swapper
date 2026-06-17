@@ -1,0 +1,5 @@
+openvino
+numpy
+cv2
+pybase64
+typing
