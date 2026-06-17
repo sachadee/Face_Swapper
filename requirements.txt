@@ -1,5 +1,5 @@
 openvino
 numpy
-cv2
+opencv-python
 pybase64
 typing
